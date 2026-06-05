@@ -8,6 +8,7 @@
 
 ## 🧠 What I'm Working On
 
+- **browsergames** – Simple games that can be played in the browser.
 - **RewindR** – Time-travel debugging for Python (because `print()` statements belong in the 90s)
 - **compareexcel** – Excel files comparison tool.
 - LLM-powered automation – integrating language models into daily workflows
