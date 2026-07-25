@@ -1,35 +1,32 @@
 # 👋 Hi, I'm Abhi
-
-**`.NET` by day, Python & JS by night – building tools that make debugging less painful**
+.NET by day, Python & JS by night – building tools that make debugging less painful
 
 [![GitHub followers](https://img.shields.io/github/followers/abhidotnet?label=Follow&style=social)](https://github.com/abhidotnet)
 
----
+**Free to play:** [abhi-games-4da9c.web.app](https://abhi-games-4da9c.web.app/)
 
 ## 🧠 What I'm Working On
-
-- **browsergames** – Simple games that can be played in the browser.
+- **browsergames** – JavaScript games hosted on Firebase, free to play in the browser.
+- **Funding goal** – looking for support to convert these games into iOS apps and publish them on the App Store.
 - **RewindR** – Time-travel debugging for Python (because `print()` statements belong in the 90s)
-- **compareexcel** – Excel files comparison tool.
-- LLM-powered automation – integrating language models into daily workflows
-- **Microsoft Fabric** – Report automations & Power BI artifacts (my current day job)
+- **compareexcel** – Excel files comparison tool
+- **LLM-powered automation** – integrating language models into daily workflows
+- **Microsoft Fabric** – report automations & Power BI artifacts (my current day job)
 
 ## 🛠️ Tech Toolbox
-
 | Category | Technologies |
-|----------|---------------|
-| **Languages** | Python, JavaScript, C#, SQL |
-| **Backend** | .NET Core / C#, Node.js |
-| **Frontend** | React, vanilla JS |
-| **Databases** | SQL Server (optimization, complex queries, ETL) |
-| **BI & Analytics** | Microsoft Fabric, Power BI (report automations, dashboards, data artifacts) |
-| **CRM (past)** | Salesforce, Insightly |
-| **ERP ** | Acumatica  |
-| **LLMs** | Prompt engineering |
-| **Tools** | Git, pytest, VS Code, Visual Studio |
+|---|---|
+| Languages | Python, JavaScript, C#, SQL |
+| Backend | .NET Core / C#, Node.js |
+| Frontend | React, vanilla JS |
+| Databases | SQL Server (optimization, complex queries, ETL) |
+| BI & Analytics | Microsoft Fabric, Power BI (report automations, dashboards, data artifacts) |
+| CRM (past) | Salesforce, Insightly |
+| ERP | Acumatica |
+| LLMs | Prompt engineering |
+| Tools | Git, pytest, VS Code, Visual Studio |
 
 ## 🌱 Currently Exploring
-
 - Deeper async patterns in Python
 - Building agents with LangChain / LlamaIndex
 - Making RewindR even more useful for the community
@@ -37,7 +34,6 @@
 - Microsoft Fabric automation & CI/CD for Power BI
 
 ## 💬 Ask Me About
-
 - Python debugging techniques
 - SQL Server query tuning
 - Microsoft Fabric & Power BI automation
@@ -45,15 +41,11 @@
 - My past life in CRM (Salesforce) – happy to share lessons learned
 
 ## 📫 Connect With Me
-
-- GitHub: [@abhidotnet](https://github.com/abhidotnet) – you're already here
+- GitHub: @abhidotnet – you're already here
 - Open source collaborations: open an issue or PR on any of my repos
 - Blog / writing: https://myprogrammingexp.wordpress.com/
 
----
-
 ## ✨ My Open Source Philosophy
-
 > "Code is meant to be shared, broken, fixed, and shared again."
 
 I contribute because:
@@ -61,8 +53,7 @@ I contribute because:
 - Open source is the world's best unpaid internship
 - Someone else's documentation improvement will save future me hours
 
-**Want to collaborate?** Found a bug? Have an idea for RewindR? Open an issue or PR – let's build something useful together.
-
+Want to collaborate? Found a bug? Have an idea for RewindR or my games? Open an issue or PR — let's build something useful together.
 ---
 
 ## 📊 GitHub Stats
