@@ -12,12 +12,6 @@ Microsoft Fabric pipelines by day, .NET by design — building automations, data
 ---
 
 ## 🎯 Current Focus
-
-| Area | Focus |
-|---|---|
-| **70%** | Microsoft Fabric pipelines, Power BI automation, data workflows, reporting artifacts, CI/CD ideas |
-| **30%** | .NET / C#, backend engineering, tooling, APIs, and developer productivity |
-
 Right now, most of my day-to-day work is around **Microsoft Fabric pipelines**, **Power BI artifacts**, and automation across the analytics/reporting lifecycle — with .NET still being a strong part of my engineering toolkit.
 
 ---
