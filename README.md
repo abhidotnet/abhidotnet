@@ -19,8 +19,8 @@ Right now, most of my day-to-day work is around **Microsoft Fabric pipelines**, 
 ## 🧠 What I'm Working On
 
 - **Microsoft Fabric pipelines** – data workflow automation, report automations, Power BI artifacts, and analytics engineering.
-- **Power BI automation** – streamlining repetitive reporting and deployment tasks.
-- **.NET tooling** – backend utilities, APIs, and productivity-focused development.
+- **[FrameIt Snap](https://github.com/abhidotnet/FrameIt)** – a PicPick-style Windows screen capture and editing tool (.NET 8): pixel-perfect multi-monitor capture, scrolling capture, tabbed editor. [Download the beta](https://github.com/abhidotnet/FrameIt/releases/tag/v0.5.1-beta) – coming soon to the Microsoft Store.
+- **Troop 84 – North Wales, PA** – working on a newer site beta for the troop ([current site](https://www.troop84northwalespa.org/)).
 - **browsergames** – JavaScript games hosted on Firebase, free to play in the browser.
 - **Funding goal** – looking for support to convert these games into iOS apps and publish them on the App Store.
 - **RewindR** – Time-travel debugging for Python because `print()` statements belong in the 90s.
