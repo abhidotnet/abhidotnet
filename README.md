@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhi
 
-Microsoft Fabric pipelines by day, .NET by design — building automations, data workflows, and tools that make debugging less painful.
+Microsoft Fabric by day, competent game developer by night, working my way toward expert.
 
 [![GitHub followers](https://img.shields.io/github/followers/abhidotnet?label=Follow&style=social)](https://github.com/abhidotnet)
 ![Microsoft Fabric](https://img.shields.io/badge/Current%20Focus-70%25%20Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
