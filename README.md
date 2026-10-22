@@ -9,6 +9,8 @@ Microsoft Fabric pipelines by day, .NET by design — building automations, data
 
 **Free to play:** [abhi-games-4da9c.web.app](https://abhi-games-4da9c.web.app/)
 
+> 🎲 **FactionFrenzy** is live for a lucky few. It's a crazy political satire board game I envisioned, now on Reddit Games for a limited audience. Invite-only for a while, until the bugs and gameplay are ironed out. Want to try it? [Open an issue](https://github.com/abhidotnet/abhidotnet/issues) titled "FactionFrenzy invite".
+
 ---
 
 ## 🎯 Current Focus
@@ -18,6 +20,7 @@ Right now, most of my day-to-day work is around **Microsoft Fabric pipelines**, 
 
 ## 🧠 What I'm Working On
 
+- **FactionFrenzy** – a crazy political satire board game I envisioned. Now on Reddit Games for a limited audience, and invite-only while I iron out the bugs and gameplay. Want in? [Open an issue](https://github.com/abhidotnet/abhidotnet/issues) titled "FactionFrenzy invite".
 - **Microsoft Fabric pipelines** – data workflow automation, report automations, Power BI artifacts, and analytics engineering.
 - **[FrameIt Snap](https://github.com/abhidotnet/FrameIt)** – a PicPick-style Windows screen capture and editing tool (.NET 8): pixel-perfect multi-monitor capture, scrolling capture, tabbed editor. [Download the beta](https://github.com/abhidotnet/FrameIt/releases/tag/v0.5.1-beta) – coming soon to the Microsoft Store.
 - **Troop 84 – North Wales, PA** – working on a newer site beta for the troop. [Check out the beta](https://troop84b.vercel.app/) (current site: [troop84northwalespa.org](https://www.troop84northwalespa.org/)).
@@ -88,7 +91,7 @@ I contribute because:
 - Open source is the world's best unpaid internship.
 - Someone else's documentation improvement will save future me hours.
 
-Want to collaborate? Found a bug? Have an idea for RewindR or my games? Open an issue or PR — let's build something useful together.
+Want to collaborate? Found a bug? Have an idea for RewindR, FactionFrenzy, or my games? Open an issue or PR — let's build something useful together.
 
 ---
 
